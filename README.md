@@ -1,9 +1,18 @@
-# React + Vite
+# Food Product Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application to explore food products, search by name or barcode, filter by categories, sort by product name and nutrition grade, and view product details.
 
-Currently, two official plugins are available:
+## Problem Solved
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Food-Product-Explorer" 
+This app allows users to search for food products, filter by categories, and view detailed nutritional information about each product. It utilizes the OpenFoodFacts API to fetch data.
+
+## Features
+
+- Search products by name or barcode
+- Filter products by categories
+- Sort products by name and nutrition grade
+- View detailed product information on the product detail page
+
+## Time Taken
+
+I completed this assignment in 3 days.
